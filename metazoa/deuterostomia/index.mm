@@ -219,7 +219,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Holothurida (Seegurke)" ID="ID_950107077" CREATED="1645394475174" MODIFIED="1645395867314" COLOR="#000000">
+<node TEXT="Holothurida (Seegurke)" ID="ID_950107077" CREATED="1645394475174" MODIFIED="1645404559552" COLOR="#000000">
 <font BOLD="true" ITALIC="false"/>
 <richcontent TYPE="NOTE" CONTENT-TYPE="xml/">
 <html>
@@ -229,11 +229,12 @@
   <body>
     <ul>
       <li>
-        <span lang="DE" style="font-size: 10.5pt; line-height: 107%; font-family: Open Sans,sans-serif; color: #333333; background-color: white; background-image: null; background-repeat: repeat; background-attachment: scroll; background-position: null"><font size="10.5pt" face="Open Sans,sans-serif" color="#333333">keine Fünfstrahligkeit. Sekundäre Bilateralsymmetrie, kaum stereom</font></span><b><span lang="DE"><o p="#DEFAULT"></o></span></b>
+        keine Fünfstrahligkeit. Sekundäre Bilateralsymmetrie, kaum stereom<o/><o/>
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 </node>
