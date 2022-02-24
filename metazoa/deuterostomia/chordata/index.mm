@@ -175,8 +175,25 @@
     </ul>
   </body>
 </html></richcontent>
-<node TEXT="Myxinoidea (Schleimaale)" ID="ID_508709134" CREATED="1645394475180" MODIFIED="1645395867317" COLOR="#000000">
+<node TEXT="Myxinoidea (Schleimaale)" ID="ID_508709134" CREATED="1645394475180" MODIFIED="1645713730550" COLOR="#000000">
 <font BOLD="true" ITALIC="false"/>
+<richcontent TYPE="NOTE" CONTENT-TYPE="xml/">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li>
+        Neural crest cells, horn-like teeth
+      </li>
+      <li>
+        primitive fin-muscles
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 </node>
 <node TEXT="Pteromyzontida (Neunaugen)" ID="ID_1242293693" CREATED="1645394475180" MODIFIED="1645395867317" COLOR="#000000">
 <font BOLD="true" ITALIC="false"/>
